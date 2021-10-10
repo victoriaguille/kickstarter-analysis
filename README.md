@@ -4,7 +4,7 @@
 ## Analysis and Challenges
 ### Launch Date Outcomes
 #### Large portions of the Kickstarter data that has been provided could be considered useless as it does not pertain to theater focused topics. Louise specifically is looking at this data for her personal campaign plans, however, and the the numbers from the "launched_at" column can provide some useful insight regardless of what the Kickstarter campaign category is. With that in mind, a pivot chart was created from the Kickstarter sheet focused on looking at the years these campaigns were launched at, the success or failure of these campaigns, and the particular parent category. In order to better visualize the data, the pivot chart was filtered to only show the months and theater campaigns from the main Kickstarter data. From there the below line graph was created to showcase the information in an easier format. Looking at the below chart it is clear that the most successful theater Kickstarter campaigns started in May with 111 total over the years being a success. 
-#### !(../master/resources/Theater_Outcomes_vs_Launch.png)
+#### ![theater outcomes vs launch](https://github.com/victoriaguille/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
 ####  goal amounts were important. created a new sheet with a new table of data using formulas to pull data from main kickstarter data. used a line graph to showcase data. typically, the higher the amount, the harder to fund. exception to every rule. with data provided, most success came from lower amounts ($5000 cap) ((insert goal chart)). there were no canceled campaigns in the entire data set. 
 ### Challenges and Difficulties Encountered
